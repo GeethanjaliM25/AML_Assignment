@@ -11,20 +11,6 @@
 [![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen.svg)]()
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)]()
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Decision Tree Types Implemented](#decision-tree-types-implemented)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Model Comparison](#model-comparison)
-- [Technical Details](#technical-details)
-- [Performance Metrics](#performance-metrics)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-- [Contact](#contact)
 
 ## 🎯 Overview
 
