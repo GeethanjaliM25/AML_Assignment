@@ -2,7 +2,7 @@
 
 ## 📌 About This Assignment
 
-Implementation of two concept learning algorithms from scratch - Find-S and Candidate Elimination - with version space analysis and 5 impossible cases demonstration using EnjoySport dataset..
+Implementation of two concept learning algorithms from scratch - Find-S and Candidate Elimination - with version space analysis and 5 impossible cases demonstration using EnjoySport dataset...
 
 ## 🤖 What is AML?
 
