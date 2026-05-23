@@ -1,4 +1,4 @@
-# ASSIGNMENT 01: Find-S & Candidate Elimination Algorithms
+# ASSIGNMENT 01: Find-S & Candidate Elimination Algorithms..
 
 ## 📌 About This Assignment
 
